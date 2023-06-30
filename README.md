@@ -13,6 +13,7 @@ Currently, the project cannot be run unless the following are made:
 2. Input the relevant information into the 'src/main/resources/applications.properties' file.
 3. Use Maven to clean and install the project.
 4. Create a Google App Engine Instance and deploy the "roombooking-0.0.1-SNAPSHOT.jar" file to it.
+5. Update the utils.js domain to match what is provided by the GAE when deployed. Then you can launch the frontend through GitHub.
 
 # How to Use the Project
 This project is essentially a basic imitation of the functionalities of an online room booking service website but has no commercial value whatsoever.
